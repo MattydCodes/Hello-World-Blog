@@ -1,0 +1,1 @@
+npx json-server --host 192.168.0.6 --port 8000 db.json
